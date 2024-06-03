@@ -1,4 +1,4 @@
-//link: https://www.codewars.com/kata/58649884a1659ed6cb000072
+//link: https://www.codewars.com/kata/568dcc3c7f12767a62000038
 //ch: 51
 
 // function setAlarm(employed, vacation) {
